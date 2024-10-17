@@ -41,11 +41,7 @@ Para executar este projeto, você precisa das seguintes bibliotecas instaladas:
 
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para clonar o repositório, fazer alterações e enviar um pull request. Veja [CONTRIBUTING.md](CONTRIBUTING.md) para mais detalhes.
-
-## Licença
-
-Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
+Contribuições são bem-vindas! Sinta-se à vontade para clonar o repositório, fazer alterações e enviar um pull request
 
 ## Você pode instalar as dependências necessárias usando pip:
 
