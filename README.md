@@ -6,14 +6,14 @@ porque sou fã da Ariana Grande e me inspirei na Alexa.
 
 ## Funcionalidades
 
-- **Ariana Nova Música**: Permite ao usuário selecionar um arquivo de música (.mp3 ou .wav) do seu computador.
-- **Ariana Nova Playlist**: Permite ao usuário selecionar uma pasta que contém músicas para adicionar à lista de reprodução.
+- **Nova Música**: Permite ao usuário selecionar um arquivo de música (.mp3 ou .wav) do seu computador.
+- **Nova Playlist**: Permite ao usuário selecionar uma pasta que contém músicas para adicionar à lista de reprodução.
 - **Controle de Reprodução**:
   - **Tocar**: Inicia a reprodução da música selecionada.
   - **Parar**: Interrompe a reprodução atual.
   - **Avançar**: Passa para a próxima música na lista.
   - **Voltar**: Retorna para a música anterior.
-- **Controle por Voz**: O usuário pode controlar a reprodução usando comandos de voz, "Ariana tocar", "Ariana parar", "Ariana avançar" e "Ariana voltar".
+- **Controle por Voz**: O usuário pode controlar a reprodução usando comandos de voz, "Ariana nova música", "Ariana nova playlist", "Ariana tocar", "Ariana parar", "Ariana avançar" e "Ariana voltar".
 
 ## Requisitos
 
